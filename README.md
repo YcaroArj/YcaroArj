@@ -1,4 +1,4 @@
-### Óla, Eu sou o Ycaro Araujo 😄🖐️
+### Olá, Eu sou o Ycaro Araujo 😄🖐️
 
 ![Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=YcaroArj&show_icons=true&theme=github_dark)
 
