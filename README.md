@@ -2,6 +2,7 @@
 
 ## I'm Software Developer!!
 
+
 - 📚 I love reading theology books.
 - 💻 I'm passionate about technology.
 - 🎮 In my free time, I enjoy gaming.
@@ -25,10 +26,9 @@
 
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ycaroarj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ycaroarj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ycaroarj&radius=16&theme=tokyo-day&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ycaroarj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ycaroarj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
