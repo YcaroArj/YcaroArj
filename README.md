@@ -5,7 +5,6 @@
 
 - 📚 I love reading theology books.
 - 💻 I'm passionate about technology.
-- 🎮 In my free time, I enjoy gaming.
 - ☕ I love coffee.
 
 ### 🧰 Language and tools 
