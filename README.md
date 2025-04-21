@@ -1,11 +1,6 @@
 ### Hi, I'm Ycaro 🍂
 
-## I'm Software Developer!!
-
-
-- 📚 I love reading theology books.
-- 💻 I'm passionate about technology.
-- ☕ I love coffee.
+## Software Developer!!
 
 ### 🧰 Language and tools 
 <img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
